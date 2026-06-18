@@ -1,1 +1,1 @@
-BoxProxy订阅转换
+BoxProxy订阅配置
